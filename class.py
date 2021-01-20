@@ -504,3 +504,5 @@
 #    reversed_string.pop(new_list[i])
 #
 # print("".join(reversed_string))
+
+
